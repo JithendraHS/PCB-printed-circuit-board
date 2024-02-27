@@ -1,0 +1,38 @@
+Altium Designer Pick and Place Locations
+C:\Users\jithe\OneDrive\Desktop\JITHU\PCB\Altium_PCB_Projects\Practice_Project\Project Outputs for Practice_Project\Pick Place for ECEN5730_brd1a_2024-01-25.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       25-01-24
+Time:       03:39
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+"Designator","Comment","Layer","Footprint","Center-X(mil)","Center-Y(mil)","Rotation","Description"
+"C2","0.01uF","TopLayer","1206_Passive_Capacitor","620.000","790.000","0","MULTILAYER CERAMIC CAPACITORS MLCC - SMD/SMT 1UF 50V 1206 ROHS"
+"U1","NE555DR","TopLayer","TS555IDTTR","860.000","500.000","90","555 Timer SOIC-8_150MIL ROHS 150ns Rise Time"
+"TP6","TP_555_output","TopLayer","TP10x_Probe","1260.000","280.000","270","Test Point 300 mil centers"
+"TP5","TP_50ohm","TopLayer","TP10x_Probe","2280.000","280.000","270","Test Point 300 mil centers"
+"TP4","TP_1Mohm","TopLayer","TP10x_Probe","3320.000","280.000","270","Test Point 300 mil centers"
+"TP3","TP_1Kohm","TopLayer","TP10x_Probe","2980.000","280.000","270","Test Point 300 mil centers"
+"TP2","TP_300ohm","TopLayer","TP10x_Probe","2640.000","280.000","270","Test Point 300 mil centers"
+"TP1","TP_5V","TopLayer","TP10x_Probe","260.000","1300.000","180","Test Point 300 mil centers"
+"SW2","LED off/on","TopLayer","2Pin-Header-Conn","1640.000","720.000","90","2Pin Header"
+"SW1","SW_555off/On","TopLayer","2Pin-Header-Conn","940.000","1310.000","270","2Pin Header"
+"R7","1k","TopLayer","1206_Passive_Resitor","320.000","500.000","90","CHIP RESISTOR - SURFACE MOUNT 1KOHMS ±1% 1/4W 1206 ROHS"
+"R6","1k","TopLayer","1206_Passive_Resitor","320.000","789.000","90","CHIP RESISTOR - SURFACE MOUNT 1KOHMS ±1% 1/4W 1206 ROHS"
+"R5","1M","TopLayer","1206_Passive_Resitor","3140.000","412.500","90","CHIP RESISTOR - SURFACE MOUNT 1KOHMS ±1% 1/4W 1206 ROHS"
+"R4","1k","TopLayer","1206_Passive_Resitor","2791.234","412.500","90","CHIP RESISTOR - SURFACE MOUNT 1KOHMS ±1% 1/4W 1206 ROHS"
+"R3","300","TopLayer","1206_Passive_Resitor","2442.467","412.500","90","CHIP RESISTOR - SURFACE MOUNT 1KOHMS ±1% 1/4W 1206 ROHS"
+"R2","50","TopLayer","1206_Passive_Resitor","2093.701","412.500","90","CHIP RESISTOR - SURFACE MOUNT 1KOHMS ±1% 1/4W 1206 ROHS"
+"R1","1k","TopLayer","1206_Passive_Resitor","1580.000","1806.299","180","CHIP RESISTOR - SURFACE MOUNT 1KOHMS ±1% 1/4W 1206 ROHS"
+"P1","Power Jack","TopLayer","Power_Jack","442.890","1700.819","180","Power Barrel Connector Jack 2.10mm ID (0.083"), 5.50mm OD (0.217") Through Hole, Right Angle"
+"LED5","Yellow","TopLayer","LED_1206","3146.299","700.000","270","yellow 1206  Light Emitting Diodes (LED) ROHS"
+"LED4","Yellow","TopLayer","LED_1206","2797.533","700.000","270","yellow 1206  Light Emitting Diodes (LED) ROHS"
+"LED3","Yellow","TopLayer","LED_1206","2448.766","700.000","270","yellow 1206  Light Emitting Diodes (LED) ROHS"
+"LED2","Yellow","TopLayer","LED_1206","2100.000","700.000","270","yellow 1206  Light Emitting Diodes (LED) ROHS"
+"LED1","Red","TopLayer","LED_1206","1225.000","1810.000","0","Red 621~631nm 1206 Light Emitting Diodes (LED) RoHS"
+"C3","1uF","TopLayer","1206_Passive_Capacitor","320.000","210.000","270","MULTILAYER CERAMIC CAPACITORS MLCC - SMD/SMT 1UF 50V 1206 ROHS"
+"C1","22uF","TopLayer","1206_Passive_Capacitor","770.000","1730.000","90","22uF ±10% 25V X5R 1206 Multilayer Ceramic Capacitors MLCC - SMD/SMT RoHS"
