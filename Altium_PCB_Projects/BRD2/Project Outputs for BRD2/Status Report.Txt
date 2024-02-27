@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [BRD2.PrjPcb]
+   Generated File[PCB_BRD2_BACKUP-RoundHoles.TXT]
+   Generated File[PCB_BRD2_BACKUP-SlotHoles.TXT]
+   Generated File[PCB_BRD2_BACKUP.LDP]
+   Generated File[PCB_BRD2_BACKUP.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 00:20:30 On 15-02-2024

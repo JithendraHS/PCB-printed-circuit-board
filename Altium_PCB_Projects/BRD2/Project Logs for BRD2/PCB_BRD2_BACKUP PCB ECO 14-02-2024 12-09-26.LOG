@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=3.3V Pin=J3-1
+Removed Pin From Net: NetName=3.3V Pin=LED1-1
+Removed Pin From Net: NetName=3.3V Pin=PS1-2
+Removed Pin From Net: NetName=3.3V Pin=PS1-4
+Removed Pin From Net: NetName=3.3V Pin=SW1-1
+Removed Pin From Net: NetName=3.3V Pin=SW2-1
+Removed Pin From Net: NetName=3.3V Pin=TP_3.3V-1
+Change Component Designator: OldDesignator=Hex_Out-Bad NewDesignator=TP_Hex_Out-Bad
+Change Component Designator: OldDesignator=Hex_Out-Good NewDesignator=TP_Hex_Out-Good
+Change Component Designator: OldDesignator=Vd_load_Bad NewDesignator=TP_Vdrop_load_Bad
+Change Component Designator: OldDesignator=Vd_load_Good NewDesignator=TP_Vdrop_load_Good
+Change Net Name : Old Net Name=3.3V New Net Name=GND
+Added Pin To Net: NetName=3.3V Pin=J3-1
+Added Pin To Net: NetName=3.3V Pin=LED1-1
+Added Pin To Net: NetName=3.3V Pin=PS1-2
+Added Pin To Net: NetName=3.3V Pin=PS1-4
+Added Pin To Net: NetName=3.3V Pin=SW1-1
+Added Pin To Net: NetName=3.3V Pin=SW2-1
+Added Pin To Net: NetName=3.3V Pin=TP_3.3V-1
+Added Net: Name=3.3V

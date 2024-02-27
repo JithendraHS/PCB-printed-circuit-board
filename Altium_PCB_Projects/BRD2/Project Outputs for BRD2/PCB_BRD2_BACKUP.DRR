@@ -1,0 +1,19 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: PCB_BRD2_BACKUP.PcbDoc   15-02-2024  00:20:30
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : PCB_BRD2_BACKUP-RoundHoles.TXT
+ASCII SlotHoles File : PCB_BRD2_BACKUP-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.33mm (13mil)                                            Round             12        PTH        211.07mm (8.31inch)
+T2      1mm (39mil)                                               Slot              1         PTH        1.50mm (0.06inch)
+T3      1.016mm (40mil)                                           Round             44        PTH        327.61mm (12.90inch)
+T4      1.1mm (43mil)                                             Round             16        PTH        108.22mm (4.26inch)
+T5      1.2mm (47mil)                                             Slot              2         PTH        15.86mm (0.62inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              75
+
+Total Processing Time (hh:mm:ss) : 00:00:00
