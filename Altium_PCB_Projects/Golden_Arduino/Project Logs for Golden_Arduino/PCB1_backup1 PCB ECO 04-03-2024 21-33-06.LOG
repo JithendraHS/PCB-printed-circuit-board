@@ -1,0 +1,8 @@
+Change Footprint: Cannot match pads with new footprint in component :TP_3.3V Footprint:TP_Diff_Probe
+Change Footprint: Cannot match pads with new footprint in component :TP_5V Footprint:TP_Diff_Probe
+Change Component Comment : Designator=TP_3.3V Old Comment=TP_10x_Probe New Comment=10x Probe TP
+Change Component Comment : Designator=TP_5V Old Comment=TP_10x_Probe New Comment=10x Probe TP
+Change Managed Component Library Link : Designator=TP_3.3V Old VaultGUID=B01436B8-3DB0-4CB8-94EE-95B882116E57 New VaultGUID= Old ItemGUID=BF9C9898-0192-44BA-B0A9-7035885189E5 New ItemGUID= Old RevisionGUID=963BED4A-0398-42CF-8DCF-CDE04F55DA2A New RevisionGUID=
+Change Managed Component Library Link : Designator=TP_5V Old VaultGUID=B01436B8-3DB0-4CB8-94EE-95B882116E57 New VaultGUID= Old ItemGUID=BF9C9898-0192-44BA-B0A9-7035885189E5 New ItemGUID= Old RevisionGUID=963BED4A-0398-42CF-8DCF-CDE04F55DA2A New RevisionGUID=
+Change component parameters: Designator = "TP_3.3V" ("TP_3.3V"); Footprint = "TP10x_Probe"; UniqueID = "\ORTTYGME" ("\ORTTYGME")
+Change component parameters: Designator = "TP_5V" ("TP_5V"); Footprint = "TP10x_Probe"; UniqueID = "\YGSWOSDR" ("\YGSWOSDR")

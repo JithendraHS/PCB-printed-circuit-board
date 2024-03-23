@@ -1,0 +1,36 @@
+Removed Pin From Net: NetName=A5 Pin=TP3-1
+Removed Pin From Net: NetName=GND Pin=TP3-2
+Removed Pin From Net: NetName=GND Pin=TP3-2
+Removed Pin From Net: NetName=GND Pin=TP3-2
+Removed Pin From Net: NetName=A4 Pin=TP5-1
+Removed Pin From Net: NetName=GND Pin=TP5-2
+Removed Pin From Net: NetName=GND Pin=TP5-2
+Removed Pin From Net: NetName=GND Pin=TP5-2
+Removed Pin From Net: NetName=328_RX Pin=TP7-1
+Removed Pin From Net: NetName=GND Pin=TP7-2
+Removed Pin From Net: NetName=GND Pin=TP7-2
+Removed Pin From Net: NetName=GND Pin=TP7-2
+Removed Pin From Net: NetName=D13 Pin=TP8-1
+Removed Pin From Net: NetName=GND Pin=TP8-2
+Removed Pin From Net: NetName=GND Pin=TP8-2
+Removed Pin From Net: NetName=GND Pin=TP8-2
+Removed Pin From Net: NetName=328_TX Pin=TP9-1
+Removed Pin From Net: NetName=GND Pin=TP9-2
+Removed Pin From Net: NetName=GND Pin=TP9-2
+Removed Pin From Net: NetName=GND Pin=TP9-2
+Removed Pin From Net: NetName=D11 Pin=TP10-1
+Removed Pin From Net: NetName=GND Pin=TP10-2
+Removed Pin From Net: NetName=GND Pin=TP10-2
+Removed Pin From Net: NetName=GND Pin=TP10-2
+Removed Pin From Net: NetName=D12 Pin=TP11-1
+Removed Pin From Net: NetName=GND Pin=TP11-2
+Removed Pin From Net: NetName=GND Pin=TP11-2
+Removed Pin From Net: NetName=GND Pin=TP11-2
+Removed Member From Class: ClassName=Sheet1 Member=TP3
+Removed Member From Class: ClassName=Sheet1 Member=TP5
+Removed Member From Class: ClassName=Sheet1 Member=TP7
+Removed Member From Class: ClassName=Sheet1 Member=TP8
+Removed Member From Class: ClassName=Sheet1 Member=TP9
+Removed Member From Class: ClassName=Sheet1 Member=TP10
+Added Member To Class: ClassName=Sheet1 Member=Component C6 C_22uF_1206
+Added Member To Class: ClassName=Sheet1 Member=Component U2 U_USBtoSerial

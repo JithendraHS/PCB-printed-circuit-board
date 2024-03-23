@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=5V Pin=C7-2
+Removed Pin From Net: NetName=5V Pin=C8-2
+Removed Pin From Net: NetName=5V Pin=U1-4
+Removed Pin From Net: NetName=5V Pin=U1-6
+Added Pin To Net: NetName=AVCC_5V Pin=C7-2
+Added Pin To Net: NetName=AVCC_5V Pin=C8-2
+Added Pin To Net: NetName=AVCC_5V Pin=U1-4
+Added Pin To Net: NetName=AVCC_5V Pin=U1-6
+Added Member To Class: ClassName=Sheet1 Member=Component TP4 TP_D+

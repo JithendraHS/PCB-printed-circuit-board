@@ -1,0 +1,211 @@
+Added Component: Designator=J4(10_PIN_100MIL - Female)
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "JF_10_PIN_FEMALE_"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Link"; Value = "https://www.digikey.com/product-detail/en/PPTC101LFBN-RC/S7008-ND/810149/?itemSeq=304982352"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C225507"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF PN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "PPTC101LFBN-RC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR PN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "ECEN5730Lib_2023_05_DS.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Extended"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Female"; VariantName = "[No Variations]"
+Added Component: Designator=J5(10_PIN_ARDUINO_100MIL)
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "JF_10_PIN_FEMA_ARDUINO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Link"; Value = "https://www.digikey.com/product-detail/en/PPTC101LFBN-RC/S7008-ND/810149/?itemSeq=304982352"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C225507"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF PN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "PPTC101LFBN-RC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR PN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "ECEN5730Lib_2023_05_DS.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Extended"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Female"; VariantName = "[No Variations]"
+Added Component: Designator=J6(8_PIN_100MIL - Female)
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "JF_8_PIN_FEMALE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Link"; Value = "https://www.digikey.com/product-detail/en/PPTC081LFBN-RC/S7006-ND/810147/?itemSeq=304982354"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C27438"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF PN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "PPTC081LFBN-RC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR PN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "ECEN5730Lib_2023_05_DS.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Extended"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Female"; VariantName = "[No Variations]"
+Added Component: Designator=J7(8_PIN_ARD-PWR_100MIL)
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "JF_8_PIN_FEMA_ARD-Pwr"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Link"; Value = "https://www.digikey.com/product-detail/en/PPTC081LFBN-RC/S7006-ND/810147/?itemSeq=304982354"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C27438"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF PN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "PPTC081LFBN-RC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR PN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "ECEN5730Lib_2023_05_DS.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Extended"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Female"; VariantName = "[No Variations]"
+Added Component: Designator=J8(8_PIN_100MIL - Female)
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "JF_8_PIN_FEMALE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Link"; Value = "https://www.digikey.com/product-detail/en/PPTC081LFBN-RC/S7006-ND/810147/?itemSeq=304982354"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C27438"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF PN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "PPTC081LFBN-RC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR PN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "ECEN5730Lib_2023_05_DS.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Extended"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Female"; VariantName = "[No Variations]"
+Added Component: Designator=J9(8_PIN_ARD-DIG_100MIL)
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "JF_8_PIN_FEMA_ARD-Dig"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Link"; Value = "https://www.digikey.com/product-detail/en/PPTC081LFBN-RC/S7006-ND/810147/?itemSeq=304982354"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C27438"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF PN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "PPTC081LFBN-RC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR PN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "ECEN5730Lib_2023_05_DS.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Extended"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Female"; VariantName = "[No Variations]"
+Added Component: Designator=J10(6_PIN_100MIL -Female)
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "JF_6_PIN_FEMALE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Link"; Value = "https://www.digikey.com/product-detail/en/PPTC061LFBN-RC/S7004-ND/810145/?itemSeq=304982353"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C40877"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF PN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "PPTC061LFBN-RC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR PN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "ECEN5730Lib_2023_05_DS.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Extended"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Female"; VariantName = "[No Variations]"
+Added Component: Designator=J11(6_PIN_ARD-Analog_100mil)
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "JF_6_PIN_FEMA_ARD-Anolog"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Link"; Value = "https://www.digikey.com/product-detail/en/PPTC061LFBN-RC/S7004-ND/810145/?itemSeq=304982353"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C40877"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF PN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "PPTC061LFBN-RC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR PN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "ECEN5730Lib_2023_05_DS.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Extended"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Female"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=J4-1
+Added Pin To Net: NetName=GND Pin=J4-2
+Added Pin To Net: NetName=GND Pin=J4-3
+Added Pin To Net: NetName=GND Pin=J4-4
+Added Pin To Net: NetName=GND Pin=J4-5
+Added Pin To Net: NetName=GND Pin=J4-6
+Added Pin To Net: NetName=GND Pin=J4-7
+Added Pin To Net: NetName=GND Pin=J4-8
+Added Pin To Net: NetName=GND Pin=J4-9
+Added Pin To Net: NetName=GND Pin=J4-10
+Added Pin To Net: NetName=GND Pin=J5-3
+Added Pin To Net: NetName=GND Pin=J5-4
+Added Pin To Net: NetName=GND Pin=J6-1
+Added Pin To Net: NetName=GND Pin=J6-2
+Added Pin To Net: NetName=GND Pin=J6-3
+Added Pin To Net: NetName=GND Pin=J6-4
+Added Pin To Net: NetName=GND Pin=J6-5
+Added Pin To Net: NetName=GND Pin=J6-6
+Added Pin To Net: NetName=GND Pin=J6-7
+Added Pin To Net: NetName=GND Pin=J6-8
+Added Pin To Net: NetName=5V Pin=J7-2
+Added Pin To Net: NetName=RESET_PIN Pin=J7-3
+Added Pin To Net: NetName=3.3V Pin=J7-4
+Added Pin To Net: NetName=5V Pin=J7-5
+Added Pin To Net: NetName=GND Pin=J7-6
+Added Pin To Net: NetName=GND Pin=J7-7
+Added Pin To Net: NetName=GND Pin=J8-1
+Added Pin To Net: NetName=GND Pin=J8-2
+Added Pin To Net: NetName=GND Pin=J8-3
+Added Pin To Net: NetName=GND Pin=J8-4
+Added Pin To Net: NetName=GND Pin=J8-5
+Added Pin To Net: NetName=GND Pin=J8-6
+Added Pin To Net: NetName=GND Pin=J8-7
+Added Pin To Net: NetName=GND Pin=J8-8
+Added Pin To Net: NetName=328_TX Pin=J9-7
+Added Pin To Net: NetName=328_RX Pin=J9-8
+Added Pin To Net: NetName=GND Pin=J10-1
+Added Pin To Net: NetName=GND Pin=J10-2
+Added Pin To Net: NetName=GND Pin=J10-3
+Added Pin To Net: NetName=GND Pin=J10-4
+Added Pin To Net: NetName=GND Pin=J10-5
+Added Pin To Net: NetName=GND Pin=J10-6
+Added Pin To Net: NetName=A0 Pin=J11-1
+Added Pin To Net: NetName=A0 Pin=U1-23
+Added Net: Name=A0
+Added Pin To Net: NetName=A1 Pin=J11-2
+Added Pin To Net: NetName=A1 Pin=U1-24
+Added Net: Name=A1
+Added Pin To Net: NetName=A2 Pin=J11-3
+Added Pin To Net: NetName=A2 Pin=U1-25
+Added Net: Name=A2
+Added Pin To Net: NetName=A3 Pin=J11-4
+Added Pin To Net: NetName=A3 Pin=U1-26
+Added Net: Name=A3
+Added Pin To Net: NetName=A4 Pin=J5-2
+Added Pin To Net: NetName=A4 Pin=J11-5
+Added Pin To Net: NetName=A4 Pin=U1-27
+Added Net: Name=A4
+Added Pin To Net: NetName=A5 Pin=J5-1
+Added Pin To Net: NetName=A5 Pin=J11-6
+Added Pin To Net: NetName=A5 Pin=U1-28
+Added Net: Name=A5
+Added Pin To Net: NetName=D2 Pin=J9-6
+Added Pin To Net: NetName=D2 Pin=U1-32
+Added Net: Name=D2
+Added Pin To Net: NetName=D3 Pin=J9-5
+Added Pin To Net: NetName=D3 Pin=U1-1
+Added Net: Name=D3
+Added Pin To Net: NetName=D4 Pin=J9-4
+Added Pin To Net: NetName=D4 Pin=U1-2
+Added Net: Name=D4
+Added Pin To Net: NetName=D5 Pin=J9-3
+Added Pin To Net: NetName=D5 Pin=U1-9
+Added Net: Name=D5
+Added Pin To Net: NetName=D6 Pin=J9-2
+Added Pin To Net: NetName=D6 Pin=U1-10
+Added Net: Name=D6
+Added Pin To Net: NetName=D7 Pin=J9-1
+Added Pin To Net: NetName=D7 Pin=U1-11
+Added Net: Name=D7
+Added Pin To Net: NetName=D8 Pin=J5-10
+Added Pin To Net: NetName=D8 Pin=U1-12
+Added Net: Name=D8
+Added Pin To Net: NetName=D9 Pin=J5-9
+Added Pin To Net: NetName=D9 Pin=U1-13
+Added Net: Name=D9
+Added Pin To Net: NetName=D10 Pin=J5-8
+Added Pin To Net: NetName=D10 Pin=U1-14
+Added Net: Name=D10
+Added Pin To Net: NetName=D11 Pin=J5-7
+Added Pin To Net: NetName=D11 Pin=U1-15
+Added Net: Name=D11
+Added Pin To Net: NetName=D12 Pin=J5-6
+Added Pin To Net: NetName=D12 Pin=U1-16
+Added Net: Name=D12
+Added Pin To Net: NetName=D13 Pin=J5-5
+Added Pin To Net: NetName=D13 Pin=U1-17
+Added Net: Name=D13
+Added Class: Name=Sheet2

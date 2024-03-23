@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=D12 Pin=J3-1
+Removed Pin From Net: NetName=D13 Pin=J3-2
+Removed Pin From Net: NetName=RESET_PIN Pin=J3-3
+Removed Pin From Net: NetName=+5 Pin=J3-4
+Removed Pin From Net: NetName=D11 Pin=J3-5
+Removed Pin From Net: NetName=GND Pin=J3-6
+Removed Member From Class: ClassName=Sheet2 Member=J3

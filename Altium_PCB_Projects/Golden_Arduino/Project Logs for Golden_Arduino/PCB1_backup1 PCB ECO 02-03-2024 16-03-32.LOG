@@ -1,0 +1,20 @@
+Change Component Designator: OldDesignator=3.3V NewDesignator=LED1
+Change Component Designator: OldDesignator=5V NewDesignator=LED2
+Change Component Designator: OldDesignator=LED_PIN13 NewDesignator=LED5
+Change Component Designator: OldDesignator=RESET NewDesignator=SW2
+Change Component Designator: OldDesignator=Rx NewDesignator=LED3
+Change Component Designator: OldDesignator=TP_D+ NewDesignator=TP4
+Change Component Designator: OldDesignator=TP_D- NewDesignator=TP6
+Change Component Designator: OldDesignator=Tx NewDesignator=LED4
+Added Component: Designator=J3(ICSP)
+Add component (AddParameter): Name = "Digikey Link"; Value = "https://www.digikey.com/product-detail/en/NRPN032PAEN-RC/S5801-03-ND/804955/?itemSeq=304982355"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C124384"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "NRPN032PAEN-RC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Extended"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=D12 Pin=J3-1
+Added Pin To Net: NetName=D13 Pin=J3-2
+Added Pin To Net: NetName=RESET_PIN Pin=J3-3
+Added Pin To Net: NetName=+5 Pin=J3-4
+Added Pin To Net: NetName=D11 Pin=J3-5
+Added Pin To Net: NetName=GND Pin=J3-6
+Added Member To Class: ClassName=Sheet2 Member=Component J3 NRPN032PAEN-RC

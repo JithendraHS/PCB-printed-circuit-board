@@ -1,0 +1,6 @@
+Change Component Designator: OldDesignator=TP4 NewDesignator=TP_D+
+Change Component Designator: OldDesignator=TP6 NewDesignator=TP_D-
+Change Net Name : Old Net Name=NetLED1_2 New Net Name=Net3.3V_2
+Change Net Name : Old Net Name=NetLED2_2 New Net Name=Net5V_2
+Change Net Name : Old Net Name=NetLED3_1 New Net Name=NetR3_2
+Change Net Name : Old Net Name=NetLED4_1 New Net Name=NetR4_2

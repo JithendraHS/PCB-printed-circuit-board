@@ -1,0 +1,14 @@
+Change Component Comment : Designator=C15 Old Comment=1uF New Comment=10uF
+Change Component Designator: OldDesignator=3.3V NewDesignator=LED1
+Change Component Designator: OldDesignator=5V NewDesignator=LED2
+Change Component Designator: OldDesignator=LED_PIN13 NewDesignator=LED5
+Change Component Designator: OldDesignator=Rx NewDesignator=LED3
+Change Component Designator: OldDesignator=TP_D+ NewDesignator=TP4
+Change Component Designator: OldDesignator=TP_D- NewDesignator=TP6
+Change Component Designator: OldDesignator=Tx NewDesignator=LED4
+Change component parameters: Designator = "C15" ("C15"); Footprint = "1206_Passive_Capacitor"; UniqueID = "\WMJROBRT" ("\WMJROBRT")
+Change component parameters (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1810221112_Samsung-Electro-Mechanics-CL31A106KBHNNNE_C13585.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part#"; Value = "C13585"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFR Part #"; Value = "CL31A106KBHNNNE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Basic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"

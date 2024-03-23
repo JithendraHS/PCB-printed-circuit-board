@@ -1,0 +1,127 @@
+Removed Pin From Net: NetName=5V Pin=SW1-2
+Change Component Designator: OldDesignator=TP_1 NewDesignator=TP_5V
+Change Component Designator: OldDesignator=TP_2 NewDesignator=TP_3.3V
+Added Component: Designator=R7(1206_Passive_Resitor)
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1810301438_UNI-ROYAL-Uniroyal-Elec-1206W4J050KT5E_C247433.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "R_500mOhm_1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C247433"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "1206W4J050KT5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "ECEN5730Lib_2023_05_DS.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Extended"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.5"; VariantName = "[No Variations]"
+Added Component: Designator=TP1(TP_Diff_Probe)
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "TP_Diff_Probe"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "ECEN5730Lib_2023_05_DS.SchLib"; VariantName = "[No Variations]"
+Added Component: Designator=TP2(TP_Diff_Probe)
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "TP_Diff_Probe"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "ECEN5730Lib_2023_05_DS.SchLib"; VariantName = "[No Variations]"
+Added Component: Designator=TP3(TP10x_Probe)
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "TP_10x_Probe"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "ECEN5730Lib_2023_05_DS.SchLib"; VariantName = "[No Variations]"
+Added Component: Designator=TP4(TP10x_Probe)
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "TP_10x_Probe"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "ECEN5730Lib_2023_05_DS.SchLib"; VariantName = "[No Variations]"
+Added Component: Designator=TP5(TP10x_Probe)
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "TP_10x_Probe"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "ECEN5730Lib_2023_05_DS.SchLib"; VariantName = "[No Variations]"
+Added Component: Designator=TP6(TP10x_Probe)
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "TP_10x_Probe"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "ECEN5730Lib_2023_05_DS.SchLib"; VariantName = "[No Variations]"
+Added Component: Designator=TP7(TP10x_Probe)
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "TP_10x_Probe"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "ECEN5730Lib_2023_05_DS.SchLib"; VariantName = "[No Variations]"
+Added Component: Designator=TP8(TP10x_Probe)
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "TP_10x_Probe"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "ECEN5730Lib_2023_05_DS.SchLib"; VariantName = "[No Variations]"
+Added Component: Designator=TP9(TP10x_Probe)
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "TP_10x_Probe"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "ECEN5730Lib_2023_05_DS.SchLib"; VariantName = "[No Variations]"
+Added Component: Designator=TP10(TP10x_Probe)
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "TP_10x_Probe"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "ECEN5730Lib_2023_05_DS.SchLib"; VariantName = "[No Variations]"
+Added Component: Designator=TP11(TP10x_Probe)
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "TP_10x_Probe"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "ECEN5730Lib_2023_05_DS.SchLib"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=5V Pin=R7-1
+Added Pin To Net: NetName=GND Pin=TP1-1
+Added Pin To Net: NetName=5V Pin=TP2-1
+Added Pin To Net: NetName=GND Pin=TP2-2
+Added Pin To Net: NetName=A5 Pin=TP3-1
+Added Pin To Net: NetName=GND Pin=TP3-2
+Added Pin To Net: NetName=GND Pin=TP3-2
+Added Pin To Net: NetName=GND Pin=TP3-2
+Added Pin To Net: NetName=D+ Pin=TP4-1
+Added Pin To Net: NetName=GND Pin=TP4-2
+Added Pin To Net: NetName=GND Pin=TP4-2
+Added Pin To Net: NetName=GND Pin=TP4-2
+Added Pin To Net: NetName=A4 Pin=TP5-1
+Added Pin To Net: NetName=GND Pin=TP5-2
+Added Pin To Net: NetName=GND Pin=TP5-2
+Added Pin To Net: NetName=GND Pin=TP5-2
+Added Pin To Net: NetName=D- Pin=TP6-1
+Added Pin To Net: NetName=GND Pin=TP6-2
+Added Pin To Net: NetName=GND Pin=TP6-2
+Added Pin To Net: NetName=GND Pin=TP6-2
+Added Pin To Net: NetName=328_RX Pin=TP7-1
+Added Pin To Net: NetName=GND Pin=TP7-2
+Added Pin To Net: NetName=GND Pin=TP7-2
+Added Pin To Net: NetName=GND Pin=TP7-2
+Added Pin To Net: NetName=D13 Pin=TP8-1
+Added Pin To Net: NetName=GND Pin=TP8-2
+Added Pin To Net: NetName=GND Pin=TP8-2
+Added Pin To Net: NetName=GND Pin=TP8-2
+Added Pin To Net: NetName=328_TX Pin=TP9-1
+Added Pin To Net: NetName=GND Pin=TP9-2
+Added Pin To Net: NetName=GND Pin=TP9-2
+Added Pin To Net: NetName=GND Pin=TP9-2
+Added Pin To Net: NetName=D11 Pin=TP10-1
+Added Pin To Net: NetName=GND Pin=TP10-2
+Added Pin To Net: NetName=GND Pin=TP10-2
+Added Pin To Net: NetName=GND Pin=TP10-2
+Added Pin To Net: NetName=D12 Pin=TP11-1
+Added Pin To Net: NetName=GND Pin=TP11-2
+Added Pin To Net: NetName=GND Pin=TP11-2
+Added Pin To Net: NetName=GND Pin=TP11-2
+Added Pin To Net: NetName=NetR7_2 Pin=R7-2
+Added Pin To Net: NetName=NetR7_2 Pin=SW1-2
+Added Pin To Net: NetName=NetR7_2 Pin=TP1-2
+Added Net: Name=NetR7_2
+Added Member To Class: ClassName=Sheet1 Member=Component R7 R_500mOhm_1206
+Added Member To Class: ClassName=Sheet1 Member=Component TP1 TP_Curr+
+Added Member To Class: ClassName=Sheet1 Member=Component TP2 TP_Curr-
+Added Member To Class: ClassName=Sheet1 Member=Component TP3 TP_SCL
+Added Member To Class: ClassName=Sheet1 Member=Component TP4 TP_D+
+Added Member To Class: ClassName=Sheet1 Member=Component TP5 TP_SDA
+Added Member To Class: ClassName=Sheet1 Member=Component TP6 TP_D-
+Added Member To Class: ClassName=Sheet1 Member=Component TP7 TP_RX
+Added Member To Class: ClassName=Sheet1 Member=Component TP8 TP_SCK
+Added Member To Class: ClassName=Sheet1 Member=Component TP9 TP_TX
+Added Member To Class: ClassName=Sheet1 Member=Component TP10 TP_MOSI
+Added Member To Class: ClassName=Sheet1 Member=Component TP11 TP_MISO
+Change Rule Scope 1 : Old Scope=InNet('5V') New Scope=InNet('NetR7_2')

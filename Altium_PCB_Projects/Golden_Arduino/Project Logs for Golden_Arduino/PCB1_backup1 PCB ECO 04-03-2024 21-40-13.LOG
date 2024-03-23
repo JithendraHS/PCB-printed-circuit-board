@@ -1,0 +1,14 @@
+Change Component Comment : Designator=TP_3.3V Old Comment=TP_3.3V New Comment=TP_10x_Probe
+Change Component Comment : Designator=TP_5V Old Comment=TP_5V New Comment=TP_10x_Probe
+Change Managed Component Library Link : Designator=TP_3.3V Old VaultGUID=B01436B8-3DB0-4CB8-94EE-95B882116E57 New VaultGUID=B01436B8-3DB0-4CB8-94EE-95B882116E57 Old ItemGUID=A28F42BA-D76D-4B1B-8E2A-F014780493ED New ItemGUID=BF9C9898-0192-44BA-B0A9-7035885189E5 Old RevisionGUID=F2F0923E-7EB9-4E8D-8E19-F59BFF6E9687 New RevisionGUID=963BED4A-0398-42CF-8DCF-CDE04F55DA2A
+Change Managed Component Library Link : Designator=TP_5V Old VaultGUID=B01436B8-3DB0-4CB8-94EE-95B882116E57 New VaultGUID=B01436B8-3DB0-4CB8-94EE-95B882116E57 Old ItemGUID=A28F42BA-D76D-4B1B-8E2A-F014780493ED New ItemGUID=BF9C9898-0192-44BA-B0A9-7035885189E5 Old RevisionGUID=F2F0923E-7EB9-4E8D-8E19-F59BFF6E9687 New RevisionGUID=963BED4A-0398-42CF-8DCF-CDE04F55DA2A
+Change component parameters: Designator = "TP_3.3V" ("TP_3.3V"); Footprint = "TP10x_Probe"; UniqueID = "\PHFXHDXA" ("\PHFXHDXA")
+Change component parameters (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Design Item ID"; Value = "TP_10x_Probe"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pin Count"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Source"; Value = "ECEN5730Lib_2023_05_DS.SchLib"; VariantName = "[No Variations]"
+Change component parameters: Designator = "TP_5V" ("TP_5V"); Footprint = "TP10x_Probe"; UniqueID = "\RTJBZYGJ" ("\RTJBZYGJ")
+Change component parameters (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Design Item ID"; Value = "TP_10x_Probe"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pin Count"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Source"; Value = "ECEN5730Lib_2023_05_DS.SchLib"; VariantName = "[No Variations]"
