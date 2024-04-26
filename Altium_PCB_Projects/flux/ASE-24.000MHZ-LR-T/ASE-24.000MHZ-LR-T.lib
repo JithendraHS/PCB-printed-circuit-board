@@ -1,0 +1,35 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#(c) SnapEDA 2016 (snapeda.com)
+#This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA) with Design Exception 1.0
+#
+# ASE-24.000MHZ-LR-T
+#
+DEF ASE-24.000MHZ-LR-T Y 0 40 Y Y 1 L N
+F0 "Y" -800 400 50 H V L BNN
+F1 "ASE-24.000MHZ-LR-T" -800 -400 50 H V L BNN
+F2 "XTAL_ASE-24.000MHZ-LR-T" 0 0 50 H I L BNN
+F3 "" 0 0 50 H I L BNN
+F4 "Abracon" 0 0 50 H I L BNN "MF"
+F5 "1.2 mm" 0 0 50 H I L BNN "MAXIMUM_PACKAGE_HEIGHT"
+F6 "None" 0 0 50 H I L BNN "Package"
+F7 "None" 0 0 50 H I L BNN "Price"
+F8 "https://www.snapeda.com/parts/ASE-24.000MHZ-LR/Abracon/view-part/?ref=eda" 0 0 50 H I L BNN "Check_prices"
+F9 "Manufacturer Recommendations" 0 0 50 H I L BNN "STANDARD"
+F10 "02-18-22" 0 0 50 H I L BNN "PARTREV"
+F11 "https://www.snapeda.com/parts/ASE-24.000MHZ-LR/Abracon/view-part/?ref=snap" 0 0 50 H I L BNN "SnapEDA_Link"
+F12 "ASE-24.000MHZ-LR" 0 0 50 H I L BNN "MP"
+F13 "\nOscillator XO 24MHz ±25ppm 15pF CMOS 55% 3.3V 4-Pin SMD T/R\n" 0 0 50 H I L BNN "Description"
+F14 "Abracon" 0 0 50 H I L BNN "MANUFACTURER"
+F15 "Not in stock" 0 0 50 H I L BNN "Availability"
+F16 "ASE-24.000MHZ-LR-T" 0 0 50 H I L BNN "SNAPEDA_PN"
+DRAW
+S -800 -300 800 300 0 0 10 f
+X VDD 4 1000 200 200 L 40 40 0 0 W 
+X TRI-STATE(STBY) 1 -1000 0 200 R 40 40 0 0 P 
+X GND/CASE 2 1000 -200 200 L 40 40 0 0 W 
+X OUTPUT 3 1000 0 200 L 40 40 0 0 O 
+ENDDRAW
+ENDDEF
+#
+# End Library
