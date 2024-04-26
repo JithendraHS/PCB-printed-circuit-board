@@ -1,0 +1,39 @@
+Removed Pin From Net: NetName=GND Pin=BZ1-1
+Removed Pin From Net: NetName=D2 Pin=BZ1-2
+Removed Pin From Net: NetName=GND Pin=C2-2
+Removed Pin From Net: NetName=GND Pin=C4-2
+Removed Pin From Net: NetName=+5 Pin=J1-1
+Removed Pin From Net: NetName=A4 Pin=J12-01
+Removed Pin From Net: NetName=A5 Pin=J12-02
+Removed Pin From Net: NetName=+5 Pin=J12-03
+Removed Pin From Net: NetName=GND Pin=J12-04
+Removed Pin From Net: NetName=GND Pin=PS1-1
+Removed Pin From Net: NetName=GND Pin=R2-1
+Removed Pin From Net: NetName=GND Pin=TP_1-2
+Removed Pin From Net: NetName=GND Pin=TP_1-2
+Removed Pin From Net: NetName=GND Pin=TP_1-2
+Removed Member From Class: ClassName=Sheet3 Member=2
+Removed Member From Class: ClassName=Sheet2 Member=BZ1
+Removed Member From Class: ClassName=Sheet3 Member=C2
+Removed Member From Class: ClassName=Sheet3 Member=C4
+Removed Member From Class: ClassName=Sheet3 Member=J1
+Removed Member From Class: ClassName=Sheet2 Member=J12
+Removed Member From Class: ClassName=Sheet3 Member=PS1
+Removed Member From Class: ClassName=Sheet3 Member=R2
+Removed Member From Class: ClassName=Sheet3 Member=TP_1
+Added Component: Designator=BZ?(BUZZER- TH)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://www.puiaudio.com/media/SpecSheet/AT-1224-TWT-5V-2-R.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "AT-1224-TWT-5V-2-R"; VariantName = "[No Variations]"
+Added Component: Designator=J?(JM-4_TSW-104-14-S-S)
+Add component (AddParameter): Name = "LCSC PART#"; Value = "C2691448"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR PART #"; Value = "PZ254V-11-04P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TSW-104-14-S-S"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=BZ?-1
+Added Pin To Net: NetName=D2 Pin=BZ?-2
+Added Pin To Net: NetName=A4 Pin=J?-01
+Added Pin To Net: NetName=A5 Pin=J?-02
+Added Pin To Net: NetName=+5 Pin=J?-03
+Added Pin To Net: NetName=GND Pin=J?-04
+Added Member To Class: ClassName=Sheet3 Member=Component BZ? AT-1224-TWT-5V-2-R
+Added Member To Class: ClassName=Sheet3 Member=Component J? TSW-104-14-S-S

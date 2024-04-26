@@ -1,0 +1,31 @@
+Added Component: Designator=R2(1206_Passive_Resitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/2206010145_UNI-ROYAL-Uniroyal-Elec-1206W4F1000T5E_C17901.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C17901"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "1206W4F1000T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100Ohm"; VariantName = "[No Variations]"
+Added Component: Designator=R18(1206_Passive_Resitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1810301414_UNI-ROYAL-Uniroyal-Elec-1206W4F4701T5E_C17936.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C17936"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "1206W4F4701T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7KOhm"; VariantName = "[No Variations]"
+Added Component: Designator=R19(1206_Passive_Resitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1810301414_UNI-ROYAL-Uniroyal-Elec-1206W4F4701T5E_C17936.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C17936"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "1206W4F4701T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7KOhm"; VariantName = "[No Variations]"
+Added Component: Designator=TP6(TP_Diff_Probe)
+Added Pin To Net: NetName=GND Pin=R2-1
+Added Pin To Net: NetName=D3 Pin=R2-2
+Added Pin To Net: NetName=GND Pin=R18-1
+Added Pin To Net: NetName=A4 Pin=R18-2
+Added Pin To Net: NetName=GND Pin=R19-1
+Added Pin To Net: NetName=A5 Pin=R19-2
+Added Pin To Net: NetName=GND Pin=TP6-1
+Added Pin To Net: NetName=D2 Pin=TP6-2
+Added Member To Class: ClassName=Sheet2 Member=Component R2 100Ohm
+Added Member To Class: ClassName=Sheet3 Member=Component R18 4.7KOhm
+Added Member To Class: ClassName=Sheet3 Member=Component R19 4.7KOhm
+Added Member To Class: ClassName=Sheet3 Member=Component TP6 10x Probe TP

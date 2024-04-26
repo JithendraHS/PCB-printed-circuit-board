@@ -1,0 +1,43 @@
+Change Component Designator: OldDesignator=5V NewDesignator=3
+Change Component Designator: OldDesignator=BZR NewDesignator=BZ1
+Change Component Designator: OldDesignator=D 13 NewDesignator=LED1
+Change Component Designator: OldDesignator=DAC_O/P NewDesignator=TP2
+Change Component Designator: OldDesignator=ICSP NewDesignator=J4
+Change Component Designator: OldDesignator=JACK NewDesignator=SW1
+Change Component Designator: OldDesignator=OPAMP_O/P NewDesignator=TP1
+Change Component Designator: OldDesignator=R? NewDesignator=R2
+Change Component Designator: OldDesignator=RST NewDesignator=RESET1
+Change Component Designator: OldDesignator=Rx NewDesignator=Rx1
+Change Component Designator: OldDesignator=sense_res NewDesignator=SW2
+Change Component Designator: OldDesignator=SRC NewDesignator=1
+Change Component Designator: OldDesignator=TP_BZ NewDesignator=TP6
+Change Component Designator: OldDesignator=TP_Cr+ NewDesignator=TP_Curr+1
+Change Component Designator: OldDesignator=TP_Cr- NewDesignator=TP_Curr-1
+Change Component Designator: OldDesignator=TP_SRC NewDesignator=TP5
+Change Component Designator: OldDesignator=TP_V_SENSE NewDesignator=TP4
+Change Component Designator: OldDesignator=TP_V_VRM NewDesignator=TP3
+Change Component Designator: OldDesignator=Tx NewDesignator=Tx1
+Change Component Designator: OldDesignator=V_src NewDesignator=SW3
+Added Component: Designator=C2(1206_Passive_Capacitor)
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811031514_Samsung-Electro-Mechanics-CL31A226KAHNNNE_C12891.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "C_22uF_1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C12891"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "CL31A226KAHNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "ECEN5730Lib_2023_05_DS.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22µF"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5 Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Member To Class: ClassName=Sheet2 Member=Component C2 C_22uF_1206
+Added Member To Class: ClassName=Sheet2 Member=Component R2 100Ohm
+Added Member To Class: ClassName=Sheet2 Member=Component SW2 SW_3Pin_100mil_Switch
+Added Member To Class: ClassName=Sheet2 Member=Component  MCP6002T-I/SN
+Added Member To Class: ClassName=Sheet2 Member=Component TP1 10x Probe TP
+Added Member To Class: ClassName=Sheet2 Member=Component TP2 10x Probe TP
+Added Member To Class: ClassName=Sheet2 Member=Component TP3 10x Probe TP
+Added Member To Class: ClassName=Sheet2 Member=Component TP4 10x Probe TP
+Added Member To Class: ClassName=Sheet2 Member=Component U3 ADS1115IDGSR
+Added Member To Class: ClassName=Sheet2 Member=Component U4 DAC IC

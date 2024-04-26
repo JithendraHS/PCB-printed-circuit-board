@@ -1,0 +1,29 @@
+Removed Pin From Net: NetName=+5 Pin=TP_2-1
+Removed Pin From Net: NetName=GND Pin=TP_2-2
+Removed Pin From Net: NetName=GND Pin=TP_2-2
+Removed Pin From Net: NetName=GND Pin=TP_2-2
+Removed Pin From Net: NetName=D+ Pin=TP_D+1-1
+Removed Pin From Net: NetName=GND Pin=TP_D+1-2
+Removed Pin From Net: NetName=GND Pin=TP_D+1-2
+Removed Pin From Net: NetName=GND Pin=TP_D+1-2
+Removed Pin From Net: NetName=D- Pin=TP_D-1-1
+Removed Pin From Net: NetName=GND Pin=TP_D-1-2
+Removed Pin From Net: NetName=GND Pin=TP_D-1-2
+Removed Pin From Net: NetName=GND Pin=TP_D-1-2
+Removed Member From Class: ClassName=Sheet3 Member=TP_2
+Removed Member From Class: ClassName=Sheet3 Member=TP_D+1
+Removed Member From Class: ClassName=Sheet3 Member=TP_D-1
+Change Component Designator: OldDesignator=BZ? NewDesignator=BZ1
+Change Component Designator: OldDesignator=J? NewDesignator=J1
+Added Component: Designator=TP_5V(TP_Diff_Probe)
+Added Component: Designator=TP_D+(TP_Diff_Probe)
+Added Component: Designator=TP_D-(TP_Diff_Probe)
+Added Pin To Net: NetName=+5 Pin=TP_5V-1
+Added Pin To Net: NetName=GND Pin=TP_5V-2
+Added Pin To Net: NetName=D+ Pin=TP_D+-1
+Added Pin To Net: NetName=GND Pin=TP_D+-2
+Added Pin To Net: NetName=D- Pin=TP_D--1
+Added Pin To Net: NetName=GND Pin=TP_D--2
+Added Member To Class: ClassName=Sheet3 Member=Component TP_5V 10x Probe TP
+Added Member To Class: ClassName=Sheet3 Member=Component TP_D+ 10x Probe TP
+Added Member To Class: ClassName=Sheet3 Member=Component TP_D- 10x Probe TP

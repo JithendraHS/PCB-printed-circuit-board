@@ -1,0 +1,10 @@
+Output: Generates pick and place files
+Type  : Pick Place
+From  : Variant [[No Variations]] of Project [Instrumentdroid.PrjPcb]
+   Generated File[Pick Place for PCB1_backup1.csv]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 23:24:51 On 11-04-2024

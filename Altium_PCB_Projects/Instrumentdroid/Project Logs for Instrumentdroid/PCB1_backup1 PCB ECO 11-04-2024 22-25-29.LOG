@@ -1,0 +1,27 @@
+Removed Pin From Net: NetName=GND Pin=R18-1
+Removed Pin From Net: NetName=GND Pin=R19-1
+Removed Pin From Net: NetName=GND Pin=TP4-1
+Change Component Comment : Designator=R15 Old Comment=R_1K_1206 New Comment=R_10K_1206
+Change Component Designator: OldDesignator=22 NewDesignator=U1
+Change component parameters: Designator = "R15" ("R15"); Footprint = "1206_Passive_Resitor"; UniqueID = "\DOZPRHTY" ("\DOZPRHTY")
+Change component parameters (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Design Item ID"; Value = "R_1K_1206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Digikey Link"; Value = "https://www.digikey.com/product-detail/en/RNCP1206FTD1K00/RNCP1206FTD1K00CT-ND/2240675/?itemSeq=304982373"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part#"; Value = "C4410"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFR Part #"; Value = "RNCP1206FTD1K00CT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser link"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Source"; Value = "ECEN5730Lib_2023_05_DS.SchLib"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Basic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5 Pin=R18-1
+Added Pin To Net: NetName=+5 Pin=R19-1
+Added Pin To Net: NetName=V_curr- Pin=TP4-1
+Added Member To Class: ClassName=Sheet2 Member=Component  MCP6002T-I/SN
+Added Member To Class: ClassName=Sheet2 Member=Component TP1 10x Probe TP
+Added Member To Class: ClassName=Sheet2 Member=Component TP2 10x Probe TP
+Added Member To Class: ClassName=Sheet2 Member=Component TP3 10x Probe TP
+Added Member To Class: ClassName=Sheet2 Member=Component TP4 10x Probe TP
+Added Member To Class: ClassName=Sheet2 Member=Component U3 ADS1115IDGSR
+Added Member To Class: ClassName=Sheet2 Member=Component U4 DAC IC

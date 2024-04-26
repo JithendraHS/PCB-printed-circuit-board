@@ -1,0 +1,136 @@
+Removed Pin From Net: NetName=GND Pin=C11-1
+Removed Pin From Net: NetName=3.3V Pin=C11-2
+Removed Pin From Net: NetName=GND Pin=C14-1
+Removed Pin From Net: NetName=+5 Pin=C14-2
+Removed Pin From Net: NetName=GND Pin=J3-1
+Removed Pin From Net: NetName=GND Pin=J3-3
+Removed Pin From Net: NetName=GND Pin=J3-4
+Removed Pin From Net: NetName=GND Pin=J3-5
+Removed Pin From Net: NetName=GND Pin=J3-6
+Removed Pin From Net: NetName=GND Pin=J3-7
+Removed Pin From Net: NetName=GND Pin=J3-8
+Removed Pin From Net: NetName=+5 Pin=J4-2
+Removed Pin From Net: NetName=RESET_PIN Pin=J4-3
+Removed Pin From Net: NetName=3.3V Pin=J4-4
+Removed Pin From Net: NetName=+5 Pin=J4-5
+Removed Pin From Net: NetName=GND Pin=J4-6
+Removed Pin From Net: NetName=GND Pin=J4-7
+Removed Pin From Net: NetName=GND Pin=J5-1
+Removed Pin From Net: NetName=GND Pin=J5-2
+Removed Pin From Net: NetName=GND Pin=J5-3
+Removed Pin From Net: NetName=GND Pin=J5-4
+Removed Pin From Net: NetName=GND Pin=J5-5
+Removed Pin From Net: NetName=GND Pin=J5-6
+Removed Pin From Net: NetName=GND Pin=J5-7
+Removed Pin From Net: NetName=GND Pin=J5-8
+Removed Pin From Net: NetName=GND Pin=J5-9
+Removed Pin From Net: NetName=GND Pin=J5-10
+Removed Pin From Net: NetName=A5 Pin=J6-1
+Removed Pin From Net: NetName=A4 Pin=J6-2
+Removed Pin From Net: NetName=GND Pin=J6-4
+Removed Pin From Net: NetName=D13 Pin=J6-5
+Removed Pin From Net: NetName=GND Pin=J7-1
+Removed Pin From Net: NetName=GND Pin=J7-2
+Removed Pin From Net: NetName=GND Pin=J7-3
+Removed Pin From Net: NetName=GND Pin=J7-4
+Removed Pin From Net: NetName=GND Pin=J7-5
+Removed Pin From Net: NetName=GND Pin=J7-6
+Removed Pin From Net: NetName=A4 Pin=J8-5
+Removed Pin From Net: NetName=A5 Pin=J8-6
+Removed Pin From Net: NetName=GND Pin=J9-1
+Removed Pin From Net: NetName=GND Pin=J9-2
+Removed Pin From Net: NetName=GND Pin=J9-3
+Removed Pin From Net: NetName=GND Pin=J9-4
+Removed Pin From Net: NetName=GND Pin=J9-5
+Removed Pin From Net: NetName=GND Pin=J9-6
+Removed Pin From Net: NetName=GND Pin=J9-7
+Removed Pin From Net: NetName=GND Pin=J9-8
+Removed Pin From Net: NetName=D3 Pin=J10-5
+Removed Pin From Net: NetName=D2 Pin=J10-6
+Removed Pin From Net: NetName=328_TX Pin=J10-7
+Removed Pin From Net: NetName=328_RX Pin=J10-8
+Removed Pin From Net: NetName=GND Pin=J11-2
+Removed Pin From Net: NetName=GND Pin=R11-1
+Removed Pin From Net: NetName=GND Pin=R12-1
+Removed Pin From Net: NetName=GND Pin=R13-1
+Removed Pin From Net: NetName=GND Pin=R14-2
+Removed Pin From Net: NetName=GND Pin=TP3-2
+Removed Pin From Net: NetName=GND Pin=U3-5
+Removed Pin From Net: NetName=GND Pin=U3-7
+Removed Member From Class: ClassName=Sheet2 Member=1
+Removed Member From Class: ClassName=Sheet3 Member=C11
+Removed Member From Class: ClassName=Sheet3 Member=C14
+Removed Member From Class: ClassName=Sheet3 Member=J4
+Removed Member From Class: ClassName=Sheet3 Member=J5
+Removed Member From Class: ClassName=Sheet3 Member=J6
+Removed Member From Class: ClassName=Sheet3 Member=J7
+Removed Member From Class: ClassName=Sheet3 Member=J8
+Removed Member From Class: ClassName=Sheet3 Member=J9
+Removed Member From Class: ClassName=Sheet3 Member=J10
+Removed Member From Class: ClassName=Sheet2 Member=J11
+Removed Member From Class: ClassName=Sheet2 Member=P2
+Removed Member From Class: ClassName=Sheet2 Member=P3
+Removed Member From Class: ClassName=Sheet2 Member=R15
+Removed Member From Class: ClassName=Sheet2 Member=SW3
+Removed Member From Class: ClassName=Sheet2 Member=SW4
+Removed Member From Class: ClassName=Sheet2 Member=TP5
+Change Component Footprint: Designator=J3 Old Footprint=8_PIN_100MIL - Female New Footprint=2_PIN_100MIL
+Change Component Comment : Designator=J3 Old Comment=JF_8_PIN_FEMALE New Comment=JM_2_PIN_MALE
+Change Managed Component Library Link : Designator=J3 Old VaultGUID=B01436B8-3DB0-4CB8-94EE-95B882116E57 New VaultGUID=B01436B8-3DB0-4CB8-94EE-95B882116E57 Old ItemGUID=77A70779-06CA-493F-B3C1-CF09EA1354EC New ItemGUID=1FB7D2D0-2207-44C2-9AC5-02E6C99ED19E Old RevisionGUID=1DA43C32-0743-4259-B722-E8970E015B13 New RevisionGUID=A7E9DC11-1603-4C78-A99C-234F65D23651
+Change component parameters: Designator = "J3" ("J3"); Footprint = "8_PIN_100MIL - Female"; UniqueID = "\ZANDTSLI" ("\ZANDTSLI")
+Change component parameters (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811151421_Ckmtw-Shenzhen-Cankemeng-B-2100S02P-A110_C124375.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Design Item ID"; Value = "JM_2_PIN_MALE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Digikey Link"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part#"; Value = "C124375"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF PN"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFR Part #"; Value = "B-2100S02P-A110"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFR PN"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Source"; Value = "ECEN5730Lib_2023_05_DS.SchLib"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Extended"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "2 PIN"; VariantName = "[No Variations]"
+Added Component: Designator=R16(1206_Passive_Resitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-1206W4F0000T5E_C17888.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C17888"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "1206W4F0000T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser link"; Value = "https://www.mouser.com/ProductDetail/Royalohm/1206W4F0000T5E?qs=e8oIoAS2J1Thbopin%252BsagQ%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0 Ohm"; VariantName = "[No Variations]"
+Added Component: Designator=R17(1206_Passive_Resitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-1206W4F0000T5E_C17888.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C17888"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "1206W4F0000T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser link"; Value = "https://www.mouser.com/ProductDetail/Royalohm/1206W4F0000T5E?qs=e8oIoAS2J1Thbopin%252BsagQ%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0 Ohm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=R16-1
+Added Pin To Net: NetName=GND Pin=R17-2
+Change Net Name : Old Net Name=V_current New Net Name=V_curr+
+Change Net Name : Old Net Name=V_VRM New Net Name=V_VRM+
+Added Pin To Net: NetName=NetJ3_1 Pin=J3-1
+Added Pin To Net: NetName=NetJ3_1 Pin=SW4-1
+Added Net: Name=NetJ3_1
+Added Pin To Net: NetName=V_curr- Pin=R13-1
+Added Pin To Net: NetName=V_curr- Pin=R14-2
+Added Pin To Net: NetName=V_curr- Pin=R16-2
+Added Pin To Net: NetName=V_curr- Pin=U3-7
+Added Net: Name=V_curr-
+Added Pin To Net: NetName=V_VRM- Pin=R11-1
+Added Pin To Net: NetName=V_VRM- Pin=R12-1
+Added Pin To Net: NetName=V_VRM- Pin=R17-1
+Added Pin To Net: NetName=V_VRM- Pin=TP3-2
+Added Pin To Net: NetName=V_VRM- Pin=U3-5
+Added Net: Name=V_VRM-
+Added Member To Class: ClassName=Sheet3 Member=Component 1 LED_RED_1206
+Added Member To Class: ClassName=Sheet3 Member=Component P2 2P Screw Terminal Block
+Added Member To Class: ClassName=Sheet3 Member=Component P3 Power Jack
+Added Member To Class: ClassName=Sheet3 Member=Component R15 R_1K_1206
+Added Member To Class: ClassName=Sheet2 Member=Component R16 0 Ohm
+Added Member To Class: ClassName=Sheet2 Member=Component R17 0 Ohm
+Added Member To Class: ClassName=Sheet3 Member=Component SW3 SW_3Pin_100mil_Switch
+Added Member To Class: ClassName=Sheet3 Member=Component SW4 SW_3Pin_100mil_Switch
+Added Member To Class: ClassName=Sheet3 Member=Component TP5 10x Probe TP
+Added Rule: Name=Schematic Width Constraint_7
+Added Rule: Name=Schematic Width Constraint_8
